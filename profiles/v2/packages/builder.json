@@ -1,0 +1,206 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "md5Cache": true,
+    "mainBundleCompressionType": "merge_all_json"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1673879211052": {
+        "id": "1673879211052",
+        "progress": 1,
+        "state": "success",
+        "message": "16-01-2023 17:28 Build success in 83794 ms!",
+        "options": {
+          "name": "test_rockstone",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": true,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "a0093c19-94d4-4e3b-af25-03da669bf088",
+          "scenes": [
+            {
+              "url": "db://assets/scene/scene.scene",
+              "uuid": "a0093c19-94d4-4e3b-af25-03da669bf088",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop"
+        },
+        "time": "16-01-2023 17:26",
+        "dirty": false
+      },
+      "1673879419597": {
+        "id": "1673879419597",
+        "progress": 1,
+        "state": "success",
+        "message": "16-01-2023 17:30 Build success in 5677 ms!",
+        "options": {
+          "name": "test_rockstone",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": true,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "a0093c19-94d4-4e3b-af25-03da669bf088",
+          "scenes": [
+            {
+              "url": "db://assets/scene/scene.scene",
+              "uuid": "a0093c19-94d4-4e3b-af25-03da669bf088",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop"
+        },
+        "time": "16-01-2023 17:30",
+        "dirty": false
+      },
+      "1673879466832": {
+        "id": "1673879466832",
+        "progress": 1,
+        "state": "success",
+        "message": "16-01-2023 17:31 Build success in 5584 ms!",
+        "options": {
+          "name": "test_rockstone",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": true,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "a0093c19-94d4-4e3b-af25-03da669bf088",
+          "scenes": [
+            {
+              "url": "db://assets/scene/scene.scene",
+              "uuid": "a0093c19-94d4-4e3b-af25-03da669bf088",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop"
+        },
+        "time": "16-01-2023 17:31",
+        "dirty": false
+      },
+      "1673942287457": {
+        "id": "1673942287457",
+        "progress": 1,
+        "state": "success",
+        "message": "17-01-2023 10:59 Build success in 82385 ms!",
+        "options": {
+          "name": "test_rockstone",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": true,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "a0093c19-94d4-4e3b-af25-03da669bf088",
+          "scenes": [
+            {
+              "url": "db://assets/scene/scene.scene",
+              "uuid": "a0093c19-94d4-4e3b-af25-03da669bf088",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop-001"
+        },
+        "time": "17-01-2023 10:58",
+        "dirty": false
+      },
+      "1673943235888": {
+        "id": "1673943235888",
+        "progress": 1,
+        "state": "success",
+        "message": "17-01-2023 11:14 Build success in 5019 ms!",
+        "options": {
+          "name": "test_rockstone",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": true,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "a0093c19-94d4-4e3b-af25-03da669bf088",
+          "scenes": [
+            {
+              "url": "db://assets/scene/scene.scene",
+              "uuid": "a0093c19-94d4-4e3b-af25-03da669bf088",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop-001"
+        },
+        "time": "17-01-2023 11:13",
+        "dirty": false
+      },
+      "1673943585320": {
+        "id": "1673943585320",
+        "progress": 1,
+        "state": "success",
+        "message": "17-01-2023 11:19 Build success in 4630 ms!",
+        "options": {
+          "name": "test_rockstone",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": true,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "a0093c19-94d4-4e3b-af25-03da669bf088",
+          "scenes": [
+            {
+              "url": "db://assets/scene/scene.scene",
+              "uuid": "a0093c19-94d4-4e3b-af25-03da669bf088",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop-001"
+        },
+        "time": "17-01-2023 11:19",
+        "dirty": false
+      }
+    }
+  },
+  "__version__": "1.3.4"
+}

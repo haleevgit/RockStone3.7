@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i5-7360U CPU @ 2.30GHz",
+        "version": "Darwin Kernel Version 18.7.0: Tue Jun 22 19:37:08 PDT 2021; root:xnu-4903.278.70~1/RELEASE_X86_64"
+    },
+    "sceneListMap": {
+        "a0093c19-94d4-4e3b-af25-03da669bf088": "/Users/playgendary/wn/1/test_rockstone/assets/scene/scene.scene"
+    },
+    "deviceMd5": "7e3032063214bc8b9a141825f5394c41"
+}

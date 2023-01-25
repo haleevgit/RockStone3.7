@@ -1,0 +1,73 @@
+{
+  "imports": {
+    "cce:/internal/x/cc": "./chunks/b3/b3642faa74312f2f490b6f820104e34558faa045.js",
+    "cce:/internal/x/prerequisite-imports": "./chunks/07/07fb1dcca2f4fad0c5a0bf7f0aa6ba570dd5ef4e.js",
+    "file:///Users/playgendary/wn/1/test_rockstone/assets/scripts/Events.ts": "./chunks/0c/0c85661248f5f05cf41f2185a37907da2ca3d35f.js",
+    "file:///Users/playgendary/wn/1/test_rockstone/assets/scripts/FieldWatcher.ts": "./chunks/e3/e347a36afe3e51f40a779e316540c4a8b0daa355.js",
+    "file:///Users/playgendary/wn/1/test_rockstone/assets/scripts/InputCatcher.ts": "./chunks/ec/ecc9c16401b4ce691d8148e66bb59930c6b82fb5.js",
+    "file:///Users/playgendary/wn/1/test_rockstone/assets/scripts/InputType.ts": "./chunks/c3/c334b66481651abb8a41ab559a10b8ef371c9e56.js",
+    "file:///Users/playgendary/wn/1/test_rockstone/assets/scripts/ItemType.ts": "./chunks/10/10a968a197aaa571118fdd574940161d96751ece.js",
+    "file:///Users/playgendary/wn/1/test_rockstone/assets/scripts/Item.ts": "./chunks/a4/a441fbc3f93be02ff376d279bbd96032ca8fe914.js"
+  },
+  "scopes": {
+    "./chunks/b3/b3642faa74312f2f490b6f820104e34558faa045.js": {
+      "__unresolved_0": "cce:/internal/x/cc-fu/2d",
+      "__unresolved_1": "cce:/internal/x/cc-fu/sorting",
+      "__unresolved_10": "cce:/internal/x/cc-fu/particle-2d",
+      "__unresolved_11": "cce:/internal/x/cc-fu/physics-2d-box2d",
+      "__unresolved_12": "cce:/internal/x/cc-fu/physics-2d-framework",
+      "__unresolved_13": "cce:/internal/x/cc-fu/profiler",
+      "__unresolved_14": "cce:/internal/x/cc-fu/skeletal-animation",
+      "__unresolved_15": "cce:/internal/x/cc-fu/spine",
+      "__unresolved_16": "cce:/internal/x/cc-fu/tiled-map",
+      "__unresolved_17": "cce:/internal/x/cc-fu/tween",
+      "__unresolved_18": "cce:/internal/x/cc-fu/ui",
+      "__unresolved_19": "cce:/internal/x/cc-fu/video",
+      "__unresolved_2": "cce:/internal/x/cc-fu/animation",
+      "__unresolved_20": "cce:/internal/x/cc-fu/webview",
+      "__unresolved_3": "cce:/internal/x/cc-fu/audio",
+      "__unresolved_4": "cce:/internal/x/cc-fu/base",
+      "__unresolved_5": "cce:/internal/x/cc-fu/dragon-bones",
+      "__unresolved_6": "cce:/internal/x/cc-fu/gfx-webgl",
+      "__unresolved_7": "cce:/internal/x/cc-fu/gfx-webgl2",
+      "__unresolved_8": "cce:/internal/x/cc-fu/intersection-2d",
+      "__unresolved_9": "cce:/internal/x/cc-fu/light-probe"
+    },
+    "./chunks/07/07fb1dcca2f4fad0c5a0bf7f0aa6ba570dd5ef4e.js": {
+      "__unresolved_0": "./chunks/0c/0c85661248f5f05cf41f2185a37907da2ca3d35f.js",
+      "__unresolved_1": "./chunks/e3/e347a36afe3e51f40a779e316540c4a8b0daa355.js",
+      "__unresolved_2": "./chunks/ec/ecc9c16401b4ce691d8148e66bb59930c6b82fb5.js",
+      "__unresolved_3": "./chunks/c3/c334b66481651abb8a41ab559a10b8ef371c9e56.js",
+      "__unresolved_4": "./chunks/a4/a441fbc3f93be02ff376d279bbd96032ca8fe914.js",
+      "__unresolved_5": "./chunks/10/10a968a197aaa571118fdd574940161d96751ece.js"
+    },
+    "./chunks/10/10a968a197aaa571118fdd574940161d96751ece.js": {
+      "cc": "./chunks/b3/b3642faa74312f2f490b6f820104e34558faa045.js"
+    },
+    "./chunks/a4/a441fbc3f93be02ff376d279bbd96032ca8fe914.js": {
+      "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
+      "__unresolved_1": "./chunks/10/10a968a197aaa571118fdd574940161d96751ece.js",
+      "__unresolved_2": "./chunks/c3/c334b66481651abb8a41ab559a10b8ef371c9e56.js",
+      "__unresolved_3": "./chunks/0c/0c85661248f5f05cf41f2185a37907da2ca3d35f.js",
+      "cc": "./chunks/b3/b3642faa74312f2f490b6f820104e34558faa045.js"
+    },
+    "./chunks/0c/0c85661248f5f05cf41f2185a37907da2ca3d35f.js": {
+      "cc": "./chunks/b3/b3642faa74312f2f490b6f820104e34558faa045.js"
+    },
+    "./chunks/c3/c334b66481651abb8a41ab559a10b8ef371c9e56.js": {
+      "cc": "./chunks/b3/b3642faa74312f2f490b6f820104e34558faa045.js"
+    },
+    "./chunks/ec/ecc9c16401b4ce691d8148e66bb59930c6b82fb5.js": {
+      "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
+      "__unresolved_1": "./chunks/0c/0c85661248f5f05cf41f2185a37907da2ca3d35f.js",
+      "__unresolved_2": "./chunks/c3/c334b66481651abb8a41ab559a10b8ef371c9e56.js",
+      "cc": "./chunks/b3/b3642faa74312f2f490b6f820104e34558faa045.js"
+    },
+    "./chunks/e3/e347a36afe3e51f40a779e316540c4a8b0daa355.js": {
+      "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
+      "__unresolved_1": "./chunks/0c/0c85661248f5f05cf41f2185a37907da2ca3d35f.js",
+      "__unresolved_2": "./chunks/a4/a441fbc3f93be02ff376d279bbd96032ca8fe914.js",
+      "cc": "./chunks/b3/b3642faa74312f2f490b6f820104e34558faa045.js"
+    }
+  }
+}

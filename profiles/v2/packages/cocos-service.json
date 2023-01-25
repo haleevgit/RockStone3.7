@@ -1,0 +1,48 @@
+{
+  "builder-options": {
+    "configID": "f34fdc",
+    "services": []
+  },
+  "builder": {
+    "taskOptionsMap": {
+      "1673879211052": {
+        "configID": "f34fdc",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1673879419597": {
+        "configID": "f34fdc",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1673879466832": {
+        "configID": "f34fdc",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1673942287457": {
+        "configID": "f34fdc",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1673943235888": {
+        "configID": "f34fdc",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1673943585320": {
+        "configID": "f34fdc",
+        "services": [],
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.4",
+    "options": {
+      "web-desktop": {
+        "configID": "f34fdc",
+        "services": []
+      }
+    }
+  },
+  "__version__": "3.0.5"
+}

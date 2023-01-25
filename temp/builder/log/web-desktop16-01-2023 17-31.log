@@ -1,0 +1,215 @@
+16-01-2023 17:31-debug: =================================== Build Task (web-desktop) Start ================================
+16-01-2023 17:31-debug: Start build task, options:{"name":"test_rockstone","platform":"web-desktop","buildPath":"project://build","debug":false,"md5Cache":true,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_all_json","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"a0093c19-94d4-4e3b-af25-03da669bf088","scenes":[{"url":"db://assets/scene/scene.scene","uuid":"a0093c19-94d4-4e3b-af25-03da669bf088","inBundle":false}],"outputName":"web-desktop","packages":{"web-desktop":{"resolution":{"designWidth":960,"designHeight":640},"polyfills":{"asyncFunctions":false}},"cocos-service":{"configID":"f34fdc","services":[]}}}
+16-01-2023 17:31-debug: Build with Cocos Creator 3.4.0
+16-01-2023 17:31-debug: cocos-service:(onBeforeBuild) start...0%
+16-01-2023 17:31-debug: Start record console... {file(/Users/playgendary/wn/test_rockstone/temp/builder/log/web-desktop16-01-2023 17-31.log)}
+16-01-2023 17:31-debug: // ---- cocos-service:(onBeforeBuild) ----
+16-01-2023 17:31-debug: Process: heapTotal 234.54MB heapUsed 203.12MB rss 803.39MB
+16-01-2023 17:31-debug: // ---- cocos-service:(onBeforeBuild) success ----
+16-01-2023 17:31-debug: cocos-service:(onBeforeBuild)3%
+16-01-2023 17:31-debug: Query all assets info in project
+16-01-2023 17:31-debug: init custom config: keepNodeUuid: false, useCache: true
+16-01-2023 17:31-debug: BuildAssetLibrary query-assets with assets 220
+16-01-2023 17:31-debug: BuildAssetLibrary initialized with asset 308!
+16-01-2023 17:31-debug:   Number of all scenes: 1
+16-01-2023 17:31-debug:   Number of all scripts: 6
+16-01-2023 17:31-debug:   Number of other assets: 330
+16-01-2023 17:31-debug: web-desktop:(onAfterInit) start...3%
+16-01-2023 17:31-debug: // ---- web-desktop:(onAfterInit) ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 204.14MB rss 803.39MB
+16-01-2023 17:31-debug: // ---- web-desktop:(onAfterInit) success ----
+16-01-2023 17:31-debug: web-desktop:(onAfterInit)5%
+16-01-2023 17:31-debug: Reload project scripts start5%
+16-01-2023 17:31-log: // ---- Reload project scripts ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 204.16MB rss 803.39MB
+16-01-2023 17:31-debug: reload all scripts.
+16-01-2023 17:31-debug: Incremental keys: 
+16-01-2023 17:31-debug: Unregister Item
+16-01-2023 17:31-debug: Unregister FieldWatcher
+16-01-2023 17:31-debug: Unregister InputCatcher
+16-01-2023 17:31-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/Events.js'
+16-01-2023 17:31-debug: Invalidating 'pack:///mods/cce/internal/x/prerequisite-imports.js'
+16-01-2023 17:31-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+16-01-2023 17:31-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/FieldWatcher.js'
+16-01-2023 17:31-debug: Invalidating 'pack:///mods/cce/internal/code-quality/cr.js'
+16-01-2023 17:31-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/ItemType.js'
+16-01-2023 17:31-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/Item.js'
+16-01-2023 17:31-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/InputType.js'
+16-01-2023 17:31-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/InputCatcher.js'
+16-01-2023 17:31-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+16-01-2023 17:31-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+16-01-2023 17:31-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/Events.js" loaded.
+16-01-2023 17:31-debug: [[Executor]] Module "pack:///mods/cce/internal/code-quality/cr.js" loaded.
+16-01-2023 17:31-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/ItemType.js" loaded.
+16-01-2023 17:31-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/InputType.js" loaded.
+16-01-2023 17:31-debug: [[Executor]] Register Item
+16-01-2023 17:31-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/Item.js" loaded.
+16-01-2023 17:31-debug: [[Executor]] Register FieldWatcher
+16-01-2023 17:31-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/FieldWatcher.js" loaded.
+16-01-2023 17:31-debug: [[Executor]] Register InputCatcher
+16-01-2023 17:31-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/InputCatcher.js" loaded.
+16-01-2023 17:31-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+16-01-2023 17:31-debug: Reload project scripts √6%
+16-01-2023 17:31-debug: Query asset bundle start6%
+16-01-2023 17:31-log: // ---- Query asset bundle ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 204.78MB rss 803.40MB
+16-01-2023 17:31-debug: Query asset bundle √8%
+16-01-2023 17:31-debug: Query and organize assets start8%
+16-01-2023 17:31-log: // ---- Query and organize assets ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 204.82MB rss 803.40MB
+16-01-2023 17:31-debug: Number of scenes: 1
+16-01-2023 17:31-debug: Number of assets: 19
+16-01-2023 17:31-debug: Number of asset bundle: 1
+16-01-2023 17:31-debug: Query and organize assets √9%
+16-01-2023 17:31-debug: Organize scripts start9%
+16-01-2023 17:31-log: // ---- Organize scripts ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 205.25MB rss 803.40MB
+16-01-2023 17:31-debug: sort script group...
+16-01-2023 17:31-debug: Organize scripts √10%
+16-01-2023 17:31-debug: Organize texture compression tasks start10%
+16-01-2023 17:31-log: // ---- Organize texture compression tasks ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 205.27MB rss 803.40MB
+16-01-2023 17:31-debug: Number of image-compress task: 0
+16-01-2023 17:31-debug: Group json start11%
+16-01-2023 17:31-debug: Organize texture compression tasks √11%
+16-01-2023 17:31-log: // ---- Group json ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 205.34MB rss 803.40MB
+16-01-2023 17:31-debug: Number of json group: 1
+16-01-2023 17:31-debug: Group json √12%
+16-01-2023 17:31-debug: Merging Texture2D json start12%
+16-01-2023 17:31-log: // ---- Merging Texture2D json ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 205.35MB rss 803.41MB
+16-01-2023 17:31-debug: Merging Texture2D json √14%
+16-01-2023 17:31-debug:  start14%
+16-01-2023 17:31-log: // ----  ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 205.36MB rss 803.41MB
+16-01-2023 17:31-debug:  √15%
+16-01-2023 17:31-debug: web-desktop:(onBeforeBuildAssets) start...15%
+16-01-2023 17:31-debug: // ---- web-desktop:(onBeforeBuildAssets) ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 205.38MB rss 803.41MB
+16-01-2023 17:31-debug: // ---- web-desktop:(onBeforeBuildAssets) success ----
+16-01-2023 17:31-debug: web-desktop:(onBeforeBuildAssets)18%
+16-01-2023 17:31-debug:  start18%
+16-01-2023 17:31-log: // ----  ----
+16-01-2023 17:31-debug: Process: heapTotal 234.73MB heapUsed 205.40MB rss 803.41MB
+16-01-2023 17:31-debug: Build script18%
+16-01-2023 17:31-debug: Process: heapTotal 235.29MB heapUsed 212.04MB rss 786.06MB
+16-01-2023 17:31-debug: Copy externalScripts success!
+16-01-2023 17:31-debug: Build script√18%
+16-01-2023 17:31-debug: Build engine18%
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 202.52MB rss 795.00MB
+16-01-2023 17:31-debug: Use cache engine: {link(/var/folders/21/cqxjnf615pj7f298bf7khyp80000gq/T/CocosCreator/3.4.0/builder/engine/cccb2607409b3f01a0cc2c5fc29869c9)}
+16-01-2023 17:31-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","2d","ui","physics-2d-box2d","intersection-2d","profiler","particle-2d","audio","video","webview","tween","tiled-map","spine","dragon-bones","marionette"],"engineVersion":"3.4.0","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"/Applications/CocosCreator/Creator/3.4.0/CocosCreator.app/Contents/Resources/resources/3d/engine"}
+16-01-2023 17:31-debug: Build engine√18%
+16-01-2023 17:31-debug:  √24%
+16-01-2023 17:31-debug: Build auto-atlas start24%
+16-01-2023 17:31-log: // ---- Build auto-atlas ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 203.81MB rss 795.04MB
+16-01-2023 17:31-debug: Build auto-atlas √31%
+16-01-2023 17:31-debug: Compress Image start31%
+16-01-2023 17:31-log: // ---- Compress Image ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 203.83MB rss 795.04MB
+16-01-2023 17:31-debug: Compress Image √37%
+16-01-2023 17:31-debug: Copy the resource start37%
+16-01-2023 17:31-log: // ---- Copy the resource ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 203.84MB rss 795.04MB
+16-01-2023 17:31-debug: Asset Bundle(main) handle assets: 19
+16-01-2023 17:31-debug: Copy the resource √44%
+16-01-2023 17:31-debug: Build the grouped json and scatter files to the specified location start44%
+16-01-2023 17:31-log: // ---- Build the grouped json and scatter files to the specified location ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 204.00MB rss 795.05MB
+16-01-2023 17:31-debug: Json group(build-task/json) compile success，json number: 6
+16-01-2023 17:31-debug: Build the grouped json and scatter files to the specified location √51%
+16-01-2023 17:31-debug: Compress zip bundle start51%
+16-01-2023 17:31-log: // ---- Compress zip bundle ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 205.11MB rss 795.07MB
+16-01-2023 17:31-debug: Compress zip bundle √57%
+16-01-2023 17:31-log: // ---- Add md5 suffix to assets ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 205.14MB rss 795.08MB
+16-01-2023 17:31-debug: Add md5 suffix to assets start57%
+16-01-2023 17:31-debug: add suffix to assets(5) success!
+16-01-2023 17:31-debug: Add md5 suffix to assets √68%
+16-01-2023 17:31-debug: Init settings and config start68%
+16-01-2023 17:31-log: // ---- Init settings and config ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.09MB rss 798.07MB
+16-01-2023 17:31-debug: Init settings and config √68%
+16-01-2023 17:31-debug: tasks.settings.macro does not defined in i18n
+16-01-2023 17:31-debug: tasks.settings.macro start68%
+16-01-2023 17:31-log: // ---- tasks.settings.macro ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.11MB rss 798.07MB
+16-01-2023 17:31-debug: tasks.settings.macro √69%
+16-01-2023 17:31-debug: Use cached settings start69%
+16-01-2023 17:31-log: // ---- Use cached settings ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.15MB rss 798.07MB
+16-01-2023 17:31-debug: Use cached settings √69%
+16-01-2023 17:31-debug: custom joint texture layouts start69%
+16-01-2023 17:31-log: // ---- custom joint texture layouts ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.21MB rss 798.07MB
+16-01-2023 17:31-debug: custom joint texture layouts √70%
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.23MB rss 798.07MB
+16-01-2023 17:31-log: // ---- custom joint physics ----
+16-01-2023 17:31-debug: custom joint physics start70%
+16-01-2023 17:31-debug: Fill script data to settings start70%
+16-01-2023 17:31-debug: custom joint physics √70%
+16-01-2023 17:31-log: // ---- Fill script data to settings ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.25MB rss 798.07MB
+16-01-2023 17:31-debug: Fill script data to settings √71%
+16-01-2023 17:31-debug: Fill scene data to settings start71%
+16-01-2023 17:31-log: // ---- Fill scene data to settings ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.26MB rss 798.07MB
+16-01-2023 17:31-debug: Fill scene data to settings √71%
+16-01-2023 17:31-log: // ---- Organize assets groups，generate packedAssets and rawAssets data ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.27MB rss 798.08MB
+16-01-2023 17:31-debug: Organize assets groups，generate packedAssets and rawAssets data √72%
+16-01-2023 17:31-debug: Generate md5AssetsMap from suffixMap to settings start72%
+16-01-2023 17:31-debug: Organize assets groups，generate packedAssets and rawAssets data start71%
+16-01-2023 17:31-log: // ---- Generate md5AssetsMap from suffixMap to settings ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.28MB rss 798.08MB
+16-01-2023 17:31-debug: Generate md5AssetsMap from suffixMap to settings √72%
+16-01-2023 17:31-debug: web-desktop:(onBeforeCompressSettings) start...72%
+16-01-2023 17:31-debug: // ---- web-desktop:(onBeforeCompressSettings) ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.30MB rss 798.08MB
+16-01-2023 17:31-debug: // ---- web-desktop:(onBeforeCompressSettings) success ----
+16-01-2023 17:31-debug: web-desktop:(onBeforeCompressSettings)75%
+16-01-2023 17:31-debug: cocos-service:(onBeforeCompressSettings) start...75%
+16-01-2023 17:31-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.32MB rss 798.08MB
+16-01-2023 17:31-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+16-01-2023 17:31-debug: cocos-service:(onBeforeCompressSettings)77%
+16-01-2023 17:31-debug:  start77%
+16-01-2023 17:31-log: // ----  ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.44MB rss 798.08MB
+16-01-2023 17:31-debug:  √78%
+16-01-2023 17:31-debug: Compress settings.json and config.json start78%
+16-01-2023 17:31-log: // ---- Compress settings.json and config.json ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.47MB rss 798.08MB
+16-01-2023 17:31-debug: Compress settings.json and config.json √79%
+16-01-2023 17:31-debug: Save config.json start79%
+16-01-2023 17:31-log: // ---- Save config.json ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.50MB rss 798.08MB
+16-01-2023 17:31-debug: Save config.json √80%
+16-01-2023 17:31-debug: Save Settings.json start80%
+16-01-2023 17:31-log: // ---- Save Settings.json ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.52MB rss 798.08MB
+16-01-2023 17:31-debug: Save Settings.json √81%
+16-01-2023 17:31-debug: Sort build template start81%
+16-01-2023 17:31-log: // ---- Sort build template ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 201.69MB rss 798.08MB
+16-01-2023 17:31-debug: Sort build template √82%
+16-01-2023 17:31-debug: cocos-service:(onAfterCompressSettings) start...82%
+16-01-2023 17:31-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 205.33MB rss 798.08MB
+16-01-2023 17:31-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+16-01-2023 17:31-debug: cocos-service:(onAfterCompressSettings)85%
+16-01-2023 17:31-debug: web-desktop:(onAfterBuild) start...85%
+16-01-2023 17:31-debug: // ---- web-desktop:(onAfterBuild) ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 205.47MB rss 798.08MB
+16-01-2023 17:31-debug: // ---- web-desktop:(onAfterBuild) success ----
+16-01-2023 17:31-debug: web-desktop:(onAfterBuild)87%
+16-01-2023 17:31-debug: cocos-service:(onAfterBuild) start...87%
+16-01-2023 17:31-debug: // ---- cocos-service:(onAfterBuild) ----
+16-01-2023 17:31-debug: Process: heapTotal 239.54MB heapUsed 202.04MB rss 795.54MB
+16-01-2023 17:31-debug: // ---- cocos-service:(onAfterBuild) success ----
+16-01-2023 17:31-debug: cocos-service:(onAfterBuild)90%
+16-01-2023 17:31-debug: build success in 5584 ms!
+16-01-2023 17:31-debug: Stop record console. {file(/Users/playgendary/wn/test_rockstone/temp/builder/log/web-desktop16-01-2023 17-31.log)}

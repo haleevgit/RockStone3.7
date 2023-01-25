@@ -1,0 +1,538 @@
+{
+  "C:\\Users\\wn\\test_rockstone\\assets\\images.meta": {
+    "time": 1671623243346.472
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images": {
+    "time": 1671623308140.7827,
+    "uuid": "dfb86aad-0469-40fb-828d-7c1af5a43085",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scripts.meta": {
+    "time": 1671623263855.0315
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scripts": {
+    "time": 1671713506946.786,
+    "uuid": "6a833ea5-f607-42a1-a538-82b08be326b1",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\animations.meta": {
+    "time": 1671623254738.4097
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\animations": {
+    "time": 1671623254724.4072,
+    "uuid": "e4d269a8-d730-42e4-8531-4768c6f929c7",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements.meta": {
+    "time": 1671623308145.783
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements": {
+    "time": 1671694071862.5,
+    "uuid": "d2c544e1-44b9-4d38-8740-bac792a9cafe",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements\\blue_flower_1.png.meta": {
+    "time": 1671623432830.3025
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements\\box_bonus_1.png.meta": {
+    "time": 1671623432845.3052
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements\\blue_flower_1.png": {
+    "time": 1671612550000,
+    "uuid": "519d149e-9e58-4313-9e20-f96cd5401782",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements\\box_bonus_1.png": {
+    "time": 1671612550000,
+    "uuid": "181728a5-47c6-4ce6-941a-5d3ab7d97153",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements\\square.png.meta": {
+    "time": 1671623447220.447
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements\\square.png": {
+    "time": 1671622932189.3909,
+    "uuid": "4d4b2114-9496-4b0a-8c0a-c9c04de9dd01",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scripts\\FieldWatcher.ts.meta": {
+    "time": 1671623463958.6638
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scripts\\FieldWatcher.ts": {
+    "time": 1671718999047.0867,
+    "uuid": "bbd0adda-e078-414f-ab90-934124d1f284",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scene.meta": {
+    "time": 1671628137156.9294
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scene": {
+    "time": 1671628145335.493,
+    "uuid": "5bce4777-e8ed-41e4-bb39-c21909d11692",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scene\\scene.scene.meta": {
+    "time": 1671628145342.4949
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scene\\scene.scene": {
+    "time": 1671713294508.0564,
+    "uuid": "a0093c19-94d4-4e3b-af25-03da669bf088",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements\\square4.png.meta": {
+    "time": 1671629076851.436
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements\\square4.png": {
+    "time": 1671618236000,
+    "uuid": "e259acd6-49b9-4b1a-a6d7-93a5c7773b7c",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scripts\\Item.ts.meta": {
+    "time": 1671693725341.1821
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scripts\\Item.ts": {
+    "time": 1671716903199.0137,
+    "uuid": "f21356a8-7333-4eb9-8dbb-02611967eb5b",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scripts\\ItemType.ts.meta": {
+    "time": 1671176620480.3123
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scripts\\ItemType.ts": {
+    "time": 1671713434203.6392,
+    "uuid": "00d62103-8e1f-44de-add4-749dc3d3217a",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements\\blue_flower_2.png.meta": {
+    "time": 1671694071900.1113
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\images\\elements\\blue_flower_2.png": {
+    "time": 1671612550000,
+    "uuid": "0fd4e463-0928-4d68-91c4-3ba14c5025db",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\prefabs.meta": {
+    "time": 1671694423895.4429
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\prefabs": {
+    "time": 1671694427802.2244,
+    "uuid": "4320ccbf-f1aa-487e-b633-dde9af1ea413",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\prefabs\\Item.prefab.meta": {
+    "time": 1671694427810.2239
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\prefabs\\Item.prefab": {
+    "time": 1671697346270.94,
+    "uuid": "63ab4a71-3f8b-47d9-8afe-2dc5979b621b",
+    "missing": false
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scripts\\Events.ts.meta": {
+    "time": 1671713506951.7832
+  },
+  "C:\\Users\\wn\\test_rockstone\\assets\\scripts\\Events.ts": {
+    "time": 1671713998688.8074,
+    "uuid": "91066d22-ffc7-4cab-a5cf-e8711e8ee592",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/animations": {
+    "time": 1672214729684.032,
+    "uuid": "e4d269a8-d730-42e4-8531-4768c6f929c7",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images": {
+    "time": 1672213741907.1738,
+    "uuid": "dfb86aad-0469-40fb-828d-7c1af5a43085",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/prefabs": {
+    "time": 1671694427000,
+    "uuid": "4320ccbf-f1aa-487e-b633-dde9af1ea413",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scene": {
+    "time": 1671628145000,
+    "uuid": "5bce4777-e8ed-41e4-bb39-c21909d11692",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts": {
+    "time": 1672130176041.3967,
+    "uuid": "6a833ea5-f607-42a1-a538-82b08be326b1",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements": {
+    "time": 1672217549989.0408,
+    "uuid": "d2c544e1-44b9-4d38-8740-bac792a9cafe",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/prefabs/Item.prefab": {
+    "time": 1674558569994.808,
+    "uuid": "63ab4a71-3f8b-47d9-8afe-2dc5979b621b",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scene/scene.scene": {
+    "time": 1674563092574.5327,
+    "uuid": "a0093c19-94d4-4e3b-af25-03da669bf088",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/Events.ts": {
+    "time": 1672132395422.2312,
+    "uuid": "91066d22-ffc7-4cab-a5cf-e8711e8ee592",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/FieldWatcher.ts": {
+    "time": 1673942173857.4412,
+    "uuid": "bbd0adda-e078-414f-ab90-934124d1f284",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/Item.ts": {
+    "time": 1674565061808.187,
+    "uuid": "f21356a8-7333-4eb9-8dbb-02611967eb5b",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/ItemType.ts": {
+    "time": 1673273244475.625,
+    "uuid": "00d62103-8e1f-44de-add4-749dc3d3217a",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/blue_flower_1.png": {
+    "time": 1671612550000,
+    "uuid": "519d149e-9e58-4313-9e20-f96cd5401782",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/blue_flower_2.png": {
+    "time": 1671612550000,
+    "uuid": "0fd4e463-0928-4d68-91c4-3ba14c5025db",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/box_bonus_1.png": {
+    "time": 1671612550000,
+    "uuid": "181728a5-47c6-4ce6-941a-5d3ab7d97153",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/square.png": {
+    "time": 1671622932000,
+    "uuid": "4d4b2114-9496-4b0a-8c0a-c9c04de9dd01",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/square4.png": {
+    "time": 1671618236000,
+    "uuid": "e259acd6-49b9-4b1a-a6d7-93a5c7773b7c",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/animations.meta": {
+    "time": 1671623254000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images.meta": {
+    "time": 1671623243000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/prefabs.meta": {
+    "time": 1671694423000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scene.meta": {
+    "time": 1671628137000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts.meta": {
+    "time": 1671623263000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements.meta": {
+    "time": 1671623308000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/Events.ts.meta": {
+    "time": 1671713506000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/FieldWatcher.ts.meta": {
+    "time": 1671623463000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/Item.ts.meta": {
+    "time": 1671693725000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/ItemType.ts.meta": {
+    "time": 1671176620000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/prefabs/Item.prefab.meta": {
+    "time": 1671694427000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scene/scene.scene.meta": {
+    "time": 1671628145000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/blue_flower_1.png.meta": {
+    "time": 1671623432000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/blue_flower_2.png.meta": {
+    "time": 1671694071000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/box_bonus_1.png.meta": {
+    "time": 1671623432000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/square.png.meta": {
+    "time": 1671623447000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/square4.png.meta": {
+    "time": 1671629076000
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/InputCatcher.ts.meta": {
+    "time": 1672129850419.6077
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/InputCatcher.ts": {
+    "time": 1674560983368.1223,
+    "uuid": "d55cd407-c64f-4bdd-9969-67b74c5989d0",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/InputType.ts.meta": {
+    "time": 1672130169351.4712
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/scripts/InputType.ts": {
+    "time": 1672130304746.568,
+    "uuid": "74dea2b5-cc2b-412e-83bd-595d042905de",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/box_small.png.meta": {
+    "time": 1672213560115.953
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/flower2_small.png.meta": {
+    "time": 1672213560140.7815
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/flower1_small.png.meta": {
+    "time": 1672213560179.9312
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/box_small.png": {
+    "time": 1672213560080.7974,
+    "uuid": "b47711c3-3733-46a1-a1b4-8e8e66e96767",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/flower2_small.png": {
+    "time": 1672213560081.3618,
+    "uuid": "ce139c81-6d89-406b-b068-680fbc6ccf5a",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/flower1_small.png": {
+    "time": 1672213560081.6042,
+    "uuid": "c68d0aa1-8dd9-4e1a-8f2e-f00f68601e8a",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/square_small.png.meta": {
+    "time": 1672213822375.281
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/square_small.png": {
+    "time": 1672213822363.014,
+    "uuid": "c5b23e68-8161-4e91-a46f-95353258bfa4",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/rays.png.meta": {
+    "time": 1672214517689.346
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/images/elements/rays.png": {
+    "time": 1672214506093.0024,
+    "uuid": "89acbc51-85de-4722-883f-e8874c55b3b3",
+    "missing": false
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/animations/shine.anim.meta": {
+    "time": 1672214729686.4001
+  },
+  "/Users/playgendary/wn/test_rockstone/assets/animations/shine.anim": {
+    "time": 1673874658919.0632,
+    "uuid": "c3da9b39-02eb-47b3-931e-11092dabc415",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/animations": {
+    "time": 1672214729684.032,
+    "uuid": "e4d269a8-d730-42e4-8531-4768c6f929c7",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images": {
+    "time": 1672213741907.1738,
+    "uuid": "dfb86aad-0469-40fb-828d-7c1af5a43085",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/prefabs": {
+    "time": 1671694427000,
+    "uuid": "4320ccbf-f1aa-487e-b633-dde9af1ea413",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scene": {
+    "time": 1671628145000,
+    "uuid": "5bce4777-e8ed-41e4-bb39-c21909d11692",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts": {
+    "time": 1672130176041.3967,
+    "uuid": "6a833ea5-f607-42a1-a538-82b08be326b1",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements": {
+    "time": 1672217549989.0408,
+    "uuid": "d2c544e1-44b9-4d38-8740-bac792a9cafe",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/Events.ts": {
+    "time": 1672132395422.2312,
+    "uuid": "91066d22-ffc7-4cab-a5cf-e8711e8ee592",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/FieldWatcher.ts": {
+    "time": 1674567166099.0786,
+    "uuid": "bbd0adda-e078-414f-ab90-934124d1f284",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/InputCatcher.ts": {
+    "time": 1674560983368.1223,
+    "uuid": "d55cd407-c64f-4bdd-9969-67b74c5989d0",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/InputType.ts": {
+    "time": 1672130304746.5679,
+    "uuid": "74dea2b5-cc2b-412e-83bd-595d042905de",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/Item.ts": {
+    "time": 1674648688536.8691,
+    "uuid": "f21356a8-7333-4eb9-8dbb-02611967eb5b",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/ItemType.ts": {
+    "time": 1673273244475.6252,
+    "uuid": "00d62103-8e1f-44de-add4-749dc3d3217a",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/animations.meta": {
+    "time": 1671623254000
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images.meta": {
+    "time": 1671623243000
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/prefabs.meta": {
+    "time": 1671694423000
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scene.meta": {
+    "time": 1671628137000
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts.meta": {
+    "time": 1671623263000
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements.meta": {
+    "time": 1671623308000
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/Events.ts.meta": {
+    "time": 1671713506000
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/FieldWatcher.ts.meta": {
+    "time": 1671623463000
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/InputCatcher.ts.meta": {
+    "time": 1672129850419.6077
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/InputType.ts.meta": {
+    "time": 1672130169351.4712
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/Item.ts.meta": {
+    "time": 1671693725000
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scripts/ItemType.ts.meta": {
+    "time": 1671176620000
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/animations/shine.anim": {
+    "time": 1673874658919.0632,
+    "uuid": "c3da9b39-02eb-47b3-931e-11092dabc415",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/prefabs/Item.prefab": {
+    "time": 1674648756957.258,
+    "uuid": "63ab4a71-3f8b-47d9-8afe-2dc5979b621b",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scene/scene.scene": {
+    "time": 1674648758731.4543,
+    "uuid": "a0093c19-94d4-4e3b-af25-03da669bf088",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/blue_flower_1.png": {
+    "time": 1671612550000,
+    "uuid": "519d149e-9e58-4313-9e20-f96cd5401782",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/blue_flower_2.png": {
+    "time": 1671612550000,
+    "uuid": "0fd4e463-0928-4d68-91c4-3ba14c5025db",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/box_bonus_1.png": {
+    "time": 1671612550000,
+    "uuid": "181728a5-47c6-4ce6-941a-5d3ab7d97153",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/box_small.png": {
+    "time": 1672213560080.7974,
+    "uuid": "b47711c3-3733-46a1-a1b4-8e8e66e96767",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/flower1_small.png": {
+    "time": 1672213560081.604,
+    "uuid": "c68d0aa1-8dd9-4e1a-8f2e-f00f68601e8a",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/flower2_small.png": {
+    "time": 1672213560081.3618,
+    "uuid": "ce139c81-6d89-406b-b068-680fbc6ccf5a",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/rays.png": {
+    "time": 1672214506093.0024,
+    "uuid": "89acbc51-85de-4722-883f-e8874c55b3b3",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/square.png": {
+    "time": 1671622932000,
+    "uuid": "4d4b2114-9496-4b0a-8c0a-c9c04de9dd01",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/square4.png": {
+    "time": 1671618236000,
+    "uuid": "e259acd6-49b9-4b1a-a6d7-93a5c7773b7c",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/square_small.png": {
+    "time": 1672213822363.014,
+    "uuid": "c5b23e68-8161-4e91-a46f-95353258bfa4",
+    "missing": false
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/animations/shine.anim.meta": {
+    "time": 1672214729686.4004
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/prefabs/Item.prefab.meta": {
+    "time": 1674566487511.2283
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/scene/scene.scene.meta": {
+    "time": 1674566487517.5059
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/blue_flower_2.png.meta": {
+    "time": 1674566487560.3813
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/blue_flower_1.png.meta": {
+    "time": 1674566487562.3418
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/box_bonus_1.png.meta": {
+    "time": 1674566487596.1152
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/flower1_small.png.meta": {
+    "time": 1674566487606.0854
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/box_small.png.meta": {
+    "time": 1674566487606.4778
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/flower2_small.png.meta": {
+    "time": 1674566487617.4192
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/square.png.meta": {
+    "time": 1674566487646.651
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/square_small.png.meta": {
+    "time": 1674566487648.8975
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/rays.png.meta": {
+    "time": 1674566487652.7566
+  },
+  "/Users/playgendary/wn/1/test_rockstone/assets/images/elements/square4.png.meta": {
+    "time": 1674566487653.3147
+  }
+}
